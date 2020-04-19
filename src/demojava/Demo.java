@@ -7,6 +7,10 @@ public class Demo {
 		
 		
 		System.out.println("dgfgf");
+		
+		System.out.println("dgfgf");
+		
+		System.out.println("dgfgf");
 
 	}
 
